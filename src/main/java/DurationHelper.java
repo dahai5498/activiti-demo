@@ -28,7 +28,7 @@ import org.activiti.engine.impl.util.ClockUtil;
 import org.joda.time.DateTime;
 
 /**
- * helper class for parsing ISO8601 duration format (also recurring) and computing next timer date
+ * helper class for parsing I  SO8601 duration format (also recurring) and computing next timer date
  */
 public class DurationHelper {
 
